@@ -10,7 +10,8 @@ I am going to start with manipulating the new Dawn 2.0 theme and their Product R
 </ul>
 <h2>Where I left Off:</h2>
 <ul><li><strike>Hello World - https://docs.github.com/en/get-started/quickstart/hello-world</strike></li>
-<li>Set Up Git - https://docs.github.com/en/get-started/quickstart/set-up-git</p></li></ul>
+<li>Set Up Git - https://docs.github.com/en/get-started/quickstart/set-up-git</p></li>
+<ul><li>Installed Git, need to install Shopify CLI now</li></ul></ul>
 
 <h2>Reference:</h2>
 <ul><li>
